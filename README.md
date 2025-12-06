@@ -7,7 +7,7 @@ VPN
      * IPSec [WIP]
 
 <p align=center>
-  <img src="https://github.com/Fehral/networkprojectv7/blob/main/networkprojectv7topology.png?raw=true">
+  <img src="">
 </p>
 
 ###### Configuration files and address mapping for each device will be uploaded within the repository.
