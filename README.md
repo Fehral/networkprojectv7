@@ -5,6 +5,12 @@
 VPN
    * [WIP]
      * IPSec [WIP]
+    
+Default Routes
+
+Route Summarization
+
+
 
 <p align=center>
   <img src="https://github.com/Fehral/networkprojectv7/blob/main/networkprojectv7topology.png?raw=true">
